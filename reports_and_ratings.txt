@@ -1,0 +1,10 @@
+Top Expenses for the Week:
+Description: Deposit, Amount: 1000, Category: Debit Card
+Description: Bought a bed, Amount: 500, Category: Entertainment
+Description: Groceries, Amount: 100, Category: Food
+Top Expenses for the Month:
+Description: Gaming club, Amount: 2467, Category: Entertainment
+Description: Deposit, Amount: 1000, Category: Debit Card
+Description: Lessons of Croatian, Amount: 750, Category: Entertainment
+Daily Expenses Report:
+Debit Card: 1000
